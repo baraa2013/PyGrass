@@ -1,0 +1,17 @@
+body {
+    background-color: goldenrod;
+}
+
+#title {
+    display: block;
+    margin: auto;
+}
+#ta3rif {
+    display: block;
+    margin: auto;
+}
+#download {
+    display: block;
+    margin: auto;
+    background-color: rgb(197, 175, 120);
+}
